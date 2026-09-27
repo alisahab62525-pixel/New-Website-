@@ -1,0 +1,6 @@
+{
+  "name": "Ali Online Store",
+  "description": "Modern, responsive e-commerce platform with customer shopping, order tracking, and comprehensive admin dashboard management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
